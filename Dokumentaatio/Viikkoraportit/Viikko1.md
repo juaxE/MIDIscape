@@ -1,0 +1,6 @@
+# Viikko 1
+Osallistuin aloitusluennolle ja esimerkkejä läpikäytäessä löysin aiheeni helposti. Tutkin aloitusluennon jälkeen hetken mahdollisia kirjastoja ja etsin opetusdataa. Loppuviikosta olen perehtynyt tarkemmin Markovin ketjuun ja trie-tietorakenteeseen. Ohjelma itsessään ei ole konkreettisesti edennyt vielä toteutusvaiheeseen.Yhteensä olen käyttänyt ensimmäisellä viikolla aikaa projektiin **noin 7 tuntia**.
+
+Epäselvyyksiä oli jonkin verran määrittelydokumenttia tehdessä. En oikein ymmärtänyt mitä lähteillä tarkoitettiin. Tämä toki olisi selvinnyt kysymällä, mutta jätin dokumentin kirjoittamisen niin viime tinkaan etten kehdannut enää kysellä. Koitan jatkossa tehdä työtä etupainotteisesti, jotta ongelmia kohdatessa on helpompi kysyä apua.
+
+Seuraavaksi tavoittelen ensimmäistä etappia ohjelman toteutuksessa. Siihen kuuluu ensimmäisen asteen Markovin ketjujen muodostaminen annetuista soinnuista. Jotta se on mahdollista, on minun perehdyttävä tarkemmin valitsemani MIDO-kirjaston dokumentaatioon ja lähteä soveltamaan. Minun on myös etsittävä sopiva testauskirjasto projektiin ja pitää huoli siitä että yksikkötestaus on kattavaa ja ajan tasalla.
